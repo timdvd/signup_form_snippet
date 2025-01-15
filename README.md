@@ -16,6 +16,9 @@ Usage:
  - Include the files in your project.
  - Customize the form fields and styling as needed.
 
+Preview:
+https://timdvd.github.io/signup_form_snippet/
+
 Screenshots:
 ![1](https://github.com/user-attachments/assets/e1ce1ae6-30a6-4e27-9899-49ed877b5575)
 ![2](https://github.com/user-attachments/assets/12f9db10-0835-4ed3-8951-dc17d080e989)
