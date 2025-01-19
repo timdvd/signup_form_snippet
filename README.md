@@ -12,12 +12,12 @@ Technologies Used:
  - JavaScript: Basic validation and interactivity.
    
 Usage:
- - Clone the repository: git clone https://github.com/timdvd/signup_form_snippet.git
+ - Clone the repository: git clone https://github.com/timdvd/signup_form_widget.git
  - Include the files in your project.
  - Customize the form fields and styling as needed.
 
 Preview:
-https://timdvd.github.io/signup_form_snippet/
+https://timdvd.github.io/signup_form_widget/
 
 Screenshots:
 ![1](https://github.com/user-attachments/assets/e1ce1ae6-30a6-4e27-9899-49ed877b5575)
